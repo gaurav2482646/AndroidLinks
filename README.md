@@ -12,3 +12,5 @@ https://proandroiddev.com/build-an-app-with-offline-support-1a32c6bab7d2
 https://developer.android.com/training/multiple-threads/create-threadpool#ThreadPool  (thread pool )
 
 https://developer.android.com/topic/libraries/architecture/workmanager#java (work manager)
+
+https://www.androidtutorialpoint.com/android-tutorial-point-site-map/
