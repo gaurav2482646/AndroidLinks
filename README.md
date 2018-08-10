@@ -14,3 +14,5 @@ https://developer.android.com/training/multiple-threads/create-threadpool#Thread
 https://developer.android.com/topic/libraries/architecture/workmanager#java (work manager)
 
 https://www.androidtutorialpoint.com/android-tutorial-point-site-map/
+
+https://google-developer-training.gitbooks.io/android-developer-advanced-course-practicals/
