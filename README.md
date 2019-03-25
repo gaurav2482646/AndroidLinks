@@ -16,3 +16,5 @@ https://developer.android.com/topic/libraries/architecture/workmanager#java (wor
 https://www.androidtutorialpoint.com/android-tutorial-point-site-map/
 
 https://google-developer-training.gitbooks.io/android-developer-advanced-course-practicals/
+
+https://stackoverflow.com/questions/867518/how-to-make-an-android-spinner-with-initial-text-select-one 
