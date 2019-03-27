@@ -18,3 +18,5 @@ https://www.androidtutorialpoint.com/android-tutorial-point-site-map/
 https://google-developer-training.gitbooks.io/android-developer-advanced-course-practicals/
 
 https://stackoverflow.com/questions/867518/how-to-make-an-android-spinner-with-initial-text-select-one 
+
+https://medium.com/material-design-in-action/implementing-bottomappbar-material-components-for-android-f490c4a01708 (Bottom App bar with Fab in middle)
