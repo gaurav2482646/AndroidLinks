@@ -26,3 +26,6 @@ https://code.luasoftware.com/tutorials/android/move-layout-when-keyboard-shown/
 
 https://stackoverflow.com/questions/36098871/how-to-search-and-connect-to-a-specific-wifi-network-in-android-programmatically
 ( SCAN AND CONNECT TO WIFI)
+
+http://peters-andoird-blog.blogspot.com/2012/05/softreference-cache.html 
+( SOFTREFERENCE CACHE)
