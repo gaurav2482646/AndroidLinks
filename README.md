@@ -29,3 +29,6 @@ https://stackoverflow.com/questions/36098871/how-to-search-and-connect-to-a-spec
 
 http://peters-andoird-blog.blogspot.com/2012/05/softreference-cache.html 
 ( SOFTREFERENCE CACHE)
+
+https://medium.com/google-developer-experts/weakreference-in-android-dd1e66b9be9d
+( What is WeakReference And Its Alternatives )
