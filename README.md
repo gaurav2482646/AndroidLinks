@@ -1,6 +1,8 @@
 # AndroidLinks
 A list of Android Links for my Personal Reference
 
+https://medium.com/@sandeeptengale/writing-good-baseactivity-class-for-android-activity-100636c81011 ( First Step in App)
+
 http://www.zoftino.com/android
 
 https://guides.codepath.com/android
