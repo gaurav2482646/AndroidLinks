@@ -34,3 +34,6 @@ http://peters-andoird-blog.blogspot.com/2012/05/softreference-cache.html
 
 https://medium.com/google-developer-experts/weakreference-in-android-dd1e66b9be9d
 ( What is WeakReference And Its Alternatives )
+
+https://blog.csdn.net/myatlantis/article/details/68067742
+https://github.com/WhoIsAA/SocketDemo( Sending Files using Socket)
