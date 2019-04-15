@@ -37,3 +37,5 @@ https://medium.com/google-developer-experts/weakreference-in-android-dd1e66b9be9
 
 https://blog.csdn.net/myatlantis/article/details/68067742
 https://github.com/WhoIsAA/SocketDemo( Sending Files using Socket)
+
+https://developers.google.com/nearby/connections/android/exchange-data (Nearby Connections API)
